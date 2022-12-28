@@ -13,9 +13,9 @@
 
 <div align="center">
   <a href="https://github.com/sousaGab">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sousaGab&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaGab&layout=compact&langs_count=7&theme=tokyonight"/>
-  <p><img alt="sousaGab" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sousaGab&&theme=tokyonight"/></p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sousaGab&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaGab&layout=compact&langs_count=7&theme=highcontrast">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sousaGab&&theme=highcontrast"></p>
 </div>
  
 <div style="display: inline_block"><br>
