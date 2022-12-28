@@ -18,8 +18,8 @@
   <p><img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sousaGab&&theme=tokyonight"></p>
 </div>
 
- 
 <div style="display: inline_block"><br>
+  <h3 align="left">Languages and Tools</h3>
   <img align="center" alt="Gab-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gab-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Gab-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
