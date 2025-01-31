@@ -6,8 +6,7 @@
 <div align="left">
   <h3>About Me</h3> 
   <p>
-    I have a degree in computer science at Universidade do Sudoeste da Bahia, I have 4 years of professional experience in development. Every day I try to put my 
-    knowledge into practice in order to improve techniques and soft-skills applied to my area of ​​interest.
+    Computer Science graduate from Universidade do Sudoeste da Bahia with 4 years of professional experience in software development. Passionate about continuous learning, I actively apply my knowledge to refine both technical skills and soft skills in my field of interest
    </p>
 </div>
 
