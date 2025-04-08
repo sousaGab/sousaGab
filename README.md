@@ -14,7 +14,7 @@
   <a href="https://github.com/sousaGab">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sousaGab&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaGab&layout=compact&langs_count=7&theme=tokyonight">
-  --<p><img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sousaGab&&theme=tokyonight"></p>
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sousaGab&&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
